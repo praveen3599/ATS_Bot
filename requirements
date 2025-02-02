@@ -1,0 +1,15 @@
+Make sure these libraries are installed before running:
+  pip install pandas pymupdf python-docx tk
+
+How to Run:
+  Save the script as ats_resume_bot.py.
+  Open Terminal or Command Prompt.
+  Run:
+  python ats_resume_bot.py
+  A file upload window will pop up → Select your resume.
+  View ATS results in the console.
+
+✅ Supports PDF & DOCX resumes.
+✅ Automatically extracts & analyzes the resume.
+✅ Detailed feedback to improve ATS ranking.
+
